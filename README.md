@@ -62,3 +62,9 @@ This project was developed as part of a WebGL lab assignment focused on:
 * Understanding the importance of efficient buffer management.
 * Implementing techniques to reduce redundant object creation.
 * Using `stats.js` to monitor and analyze performance metrics.
+
+## Credits & Acknowledgments
+
+- Developed independently as part of CSE 160: Introduction to Computer Graphics
+- Built on WebGL utility libraries (cuon-matrix.js, cuon-utils.js, webgl-utils.js, webgl-debug.js)
+- Special thanks to the course instructors for their guidance and feedback
